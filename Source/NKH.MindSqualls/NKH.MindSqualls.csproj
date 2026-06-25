@@ -70,7 +70,7 @@
     <Compile Include="McNxtMotorSync.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="WinUsbWrapper\WinUsbWrapper.csproj">
+    <ProjectReference Include="..\WinUsbWrapper\WinUsbWrapper.csproj">
       <Project>{40C6E946-D5AC-43B8-AEDE-D896E9CBB3E2}</Project>
       <Name>WinUsbWrapper</Name>
     </ProjectReference>
